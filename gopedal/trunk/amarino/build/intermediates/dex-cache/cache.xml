@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/zohaibahmed/Desktop/gopedal/gopedal/trunk/amarino/build/intermediates/pre-dexed/debug/AndroidBluetoothLibrary-d3e632bdc8afc57994b2bfe6e0f85343a9490f03.jar"
+        jar="/Users/zohaibahmed/Desktop/gopedal/gopedal/trunk/amarino/libs/AndroidBluetoothLibrary.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="03becf78ee96fb5127a875bdb31b0c1c9581771e"/>
+    <item
+        dex="/Users/zohaibahmed/Desktop/gopedal/gopedal/trunk/amarino/build/intermediates/pre-dexed/debug/AmarinoLibrary-79d34f32a3e47ba0471a50bf616a0423aa3b9949.jar"
+        jar="/Users/zohaibahmed/Desktop/gopedal/gopedal/trunk/amarino/libs/AmarinoLibrary.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="6e529684291e11458a75a22b4499a54b5280321c"/>
+
+</pre-dex-items>
