@@ -1,28 +1,5 @@
-== README
+== GoPedal Rails Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The objective of this Rails application is to provide an interface to communicate to the Arduino's GSM module via SMS. The API layer is contained within the api_controller.rb, whereas all incoming messages to the server are handled in the recieve_controller.rb. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+In order to complete the setup of the application, please fill in the twilio SID and token in the api_controller.rb. 
